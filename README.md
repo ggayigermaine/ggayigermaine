@@ -1,8 +1,6 @@
-# Hi, I'm Kiwaalabye Ggayi Germaine 👋
+# Hi, I'm Kiwaalabye Ggayi Germaine
 
 Software Engineer, entrepreneur & Product Architect engineer who works across backend architecture, frontend, mobile, and applied AI. Particular focus on systems that touch money, identity, and state transitions correctly the first time.
-
-<br>
 
 ## What I Work On
 
