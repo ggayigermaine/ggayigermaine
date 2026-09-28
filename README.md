@@ -1,11 +1,3 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Full-stack+engineer;Backend+%2B+Frontend+%2B+Mobile+%2B+AI;I+fix+the+pattern%2C+not+just+the+bug" alt="Typing SVG" />
-</a>
-
-</div>
-
 # Hi, I'm Kiwaalabye Ggayi Germaine 👋
 
 Software Engineer, entrepreneur & Product Architect engineer who works across backend architecture, frontend, mobile, and applied AI. Particular focus on systems that touch money, identity, and state transitions correctly the first time.
@@ -18,15 +10,6 @@ I build full-stack platforms end-to-end: relational data models, API layers, fro
 
 ## Languages & Runtimes
 
-<div align="left">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
 - **TypeScript / JavaScript**: primary language for backend and frontend work
 - **Kotlin**: native Android development
 - **Java**: backend domain/finance logic
@@ -34,14 +17,6 @@ I build full-stack platforms end-to-end: relational data models, API layers, fro
 - **SQL**: relational schema design and query optimization
 
 ## Backend
-
-<div align="left">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</div>
 
 - **NestJS**: modular service architecture, dependency injection, guards/interceptors
 - **Prisma**: schema modeling, migrations, type-safe data access
@@ -52,12 +27,6 @@ I build full-stack platforms end-to-end: relational data models, API layers, fro
 
 ## Frontend
 
-<div align="left">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-</div>
-
 - **React**: component architecture, state modeling
 - **Zustand**: lightweight global state management
 - **SWR**: data fetching, caching, revalidation
@@ -66,20 +35,10 @@ I build full-stack platforms end-to-end: relational data models, API layers, fro
 
 ## Mobile
 
-<div align="left">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
 - **Kotlin + Jetpack Compose**: native Android UI
 - **Mavericks**: MVI-style state management for Android
 
 ## AI / LLM Integration
-
-<div align="left">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</div>
 
 - Local LLM serving via **Ollama** running quantized models (GGUF, CPU-only inference)
 - Designing gateway-style services that centralize LLM access behind a single point rather than scattering calls across a codebase
