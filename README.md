@@ -1,6 +1,6 @@
 # Kiwaalabye Ggayi Germaine
--Software Engineering | Product Architect & Entrepreneur
-**Software Engineer | Entrepreneur | Product Architect**
+
+Software Engineering | Product Architect & Entrepreneur
 
 I build scalable software systems specializing in high-throughput system architecture, cloud-native infrastructure, and product strategy, translate complex business mechanics into high-impact digital products. 
 
