@@ -66,15 +66,6 @@ I care a lot about *how* systems fail, not just whether they work in the demo. S
 
 <br>
 
-## How I Work
-
-- I write things down before I build them: architecture plans with real file/line references, not just prose intentions.
-- I track known gaps and dev-phase shortcuts explicitly rather than letting them blend into "done."
-- I prefer staged rollouts with real observation windows over single-pass, all-at-once changes.
-- I actively watch for the same *class* of bug reappearing in new places (e.g., a boundary-resolution problem showing up in role handling, then media, then geocoding) and fix the pattern, not just the instance.
-
----
-
 <div align="center">
 <sub>This README reflects tools and practices I use day to day, always evolving as the work does.</sub>
 </div>
