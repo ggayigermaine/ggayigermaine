@@ -2,10 +2,4 @@
 
 Software Engineer | Product Architect | Entrepreneur
 
-I build scalable software systems specializing in high-throughput system architecture, cloud-native infrastructure, and product strategy, translate complex business mechanics into high-impact digital products. 
-
-Tech that's scalable and businesses that deliver.
-- **Languages:** TypeScript, JavaScript, Kotlin, Java, Python, SQL
-- **Backend:** NestJS, Prisma, PostgreSQL, GraphQL, REST, Redis, BullMQ
-- **Frontend:** React, Zustand, SWR, Zod
-- **Mobile:** Kotlin, Jetpack Compose
+Building scalable software systems specializing in high-throughput system architecture, cloud-native infrastructure, and product strategy, translate complex business mechanics into high-impact digital products.
